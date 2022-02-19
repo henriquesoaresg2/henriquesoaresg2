@@ -1,4 +1,4 @@
-### :brazil: @henriquesoaresg2
+### :nerd_face: @henriquesoaresg2
 ## :vulcan_salute: Hello, Devs!
 Me chamo Henrique e estou em uma jornada de aprendizado e construção da minha carreira como desenvolvedor web fullstack!
 Fique a vontade para olhar o que tenho "`codado`". :wink:
