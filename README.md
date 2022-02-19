@@ -1,5 +1,5 @@
 ### @henriquesoaresg2
-## ![](https://cdn-icons-gif.flaticon.com/6416/6416345.gif =32x32) Hello, Devs!
+## ![](https://cdn-icons-gif.flaticon.com/6416/6416345.gif) Hello, Devs!
 Me chamo Henrique e estou em uma jornada de aprendizado e construção da minha carreira como desenvolvedor web fullstack!
 Fique a vontade para olhar o que tenho "`codado`". :wink:
 
