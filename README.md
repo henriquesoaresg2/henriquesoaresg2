@@ -10,12 +10,12 @@ Fique a vontade para olhar o que tenho "`codado`". :wink:
  - [x] Javascript
  - [x] NodeJs
  - [x] Android Studio
+ - [x] Angular
+ - [x] Ionic
  
  ### :books: To know
- - [ ] Angular (learning... 70%)
- - [ ] Java (learning... 48%)
- - [ ] SpringBoot
- - [ ] Ionic
+ - [ ] Java (learning...)
+ - [ ] SpringBoot (learning...)
  - [ ] React
  - [ ] Flutter
  - [ ] PHP
