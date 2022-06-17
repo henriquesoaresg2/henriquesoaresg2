@@ -12,11 +12,11 @@ Fique a vontade para olhar o que tenho "`codado`". :wink:
  - [x] Android Studio
  - [x] Angular
  - [x] Ionic
+ - [x] Java
  
  ### :books: To know
- - [ ] Java (learning...)
  - [ ] SpringBoot (learning...)
- - [ ] React
+ - [ ] React (learning...)
  - [ ] Flutter
  - [ ] PHP
 <!---
